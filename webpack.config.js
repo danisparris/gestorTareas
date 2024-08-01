@@ -30,4 +30,4 @@ module.exports = {
         compress: true, //Habilitar la compresión gzip
         port: 9000, //Puerto del servidor de desarrollo
     },
-};
+};  
