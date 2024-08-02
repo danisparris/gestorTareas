@@ -26,15 +26,13 @@ input{
     border-radius: 3px;
 }
 
-button
-
-
-
-
-
-
-
-
+button{
+    padding: 5px 8px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
 
 
 ul{
